@@ -13,5 +13,5 @@
  
  
  
- ![network map1]({{ site.url }}/constitutionproject-1/aseets/images/TunisiaDI.png) 
+ ![network map1]({{ site.url }}/constitutionproject-1/assets/images/TunisiaDI.png) 
 
