@@ -2,5 +2,5 @@
  
  Still pretty much empty except for this illustration:
  
- ![network map]({{ site.url }}/demo_website/assets/images/Capture.png)  
+ ![network map]({{ site.url }}/constitutionproject-1/assets/images/Graph1Flawed.png)  
 
