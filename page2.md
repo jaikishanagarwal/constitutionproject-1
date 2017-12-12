@@ -9,5 +9,5 @@
  Teal: religion and parliament
 
  ![network map]({{ site.url }}/constitutionproject-1/assets/images/Graph1Flawed.png)  
- ![netwrok map] ({{site.url }}/constitutionproject-1/aseets/images/TunisiaDI.png) 
+ ![network map] ({{site.url }}/constitutionproject-1/aseets/images/TunisiaDI.png) 
 
