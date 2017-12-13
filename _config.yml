@@ -7,5 +7,5 @@ menu: [
 {'name': 'Constitutions', 'pagename': 'page1'},
 {'name': 'Graphs', 'pagename': 'page2'},
 {'name': 'Methodology', 'pagename': 'page3'},
-{'name': 'About the Project', 'pagename': 'AbouTheProject'},
+{'name': 'About the Project', 'pagename': 'AboutTheProject'},
 ]
