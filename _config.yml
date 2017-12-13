@@ -6,5 +6,5 @@ menu: [
 {'name': 'Home', 'pagename': 'index'},
 {'name': 'Constitutions', 'pagename': 'page1'},
 {'name': 'Graphs', 'pagename': 'page2'},
-{'name': 'Team members', 'pagename': 'page3'},
+{'name': 'Methodology', 'pagename': 'page3'},
 ]
