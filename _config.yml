@@ -4,8 +4,8 @@ title: The Constitution Project
 description: Comparing and Contrasting the Constitutions of the World
 menu: [
 {'name': 'Home', 'pagename': 'index'},
-{'name': 'Constitutions', 'pagename': 'page1'},
-{'name': 'Graphs', 'pagename': 'page2'},
-{'name': 'Methodology', 'pagename': 'page3'},
 {'name': 'About the Project', 'pagename': 'AboutTheProject'},
+{'name': 'Methodology', 'pagename': 'page3'},
+{'name': 'Case Study', 'pagename': 'page2'},
+{'name': 'Resources', 'pagename': 'page1'},
 ]
