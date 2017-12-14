@@ -8,7 +8,7 @@ Started in 2017, by three students at Sciences Po, The Constitutions Project who
 
 ### Authors 
 
-<iframe src="/constitutionproject-1/assets/images/authors.png" frameborder="0" width="550" height="300" allowfullscreen></iframe>
+<iframe src="/constitutionproject-1/assets/images/authors.png" frameborder="0" width="750" height="300" allowfullscreen></iframe>
 
 Jaikishan Agarwal: 
 Jaikishan is a graduate student at the Paris School of International Affairs, pusruing a master's degree in International Security. 
