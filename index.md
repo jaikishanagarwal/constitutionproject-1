@@ -11,7 +11,7 @@ Objective of the study
 
 Embedding Youtube content:
 
-<iframe width="560" height="315" src="https://youtu.be/x8OOc0aMoBY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=x8OOc0aMoBY" frameborder="0" allowfullscreen></iframe>
 
 ### texts
 
