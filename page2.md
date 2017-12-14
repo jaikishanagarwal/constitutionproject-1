@@ -2,7 +2,7 @@
  
  We would like to start with the case study of Tunisia, which is a focal point of our project. 
  
- <iframe src="/constitutionproject-1/assets/images/tuni1.gif" frameborder="0" width="128" height="128" allowfullscreen></iframe> 
+ <iframe src="/constitutionproject-1/assets/images/tun.jpg" frameborder="0" width="400" height="300" allowfullscreen></iframe> 
  
 Tunisia (English: /tuˈniʒə/; Arabic: تونس‎; French: Tunisie), officially the Republic of Tunisia (Arabic: الجمهورية التونسية‎ About this sound al-Jumhūrīya at-Tūnisīya) is a country in North Africa, covering 165,000 square kilometres (64,000 square miles). Its northernmost point, Cape Angela, is the northernmost point on the African continent. It is bordered by Algeria to the west and southwest, Libya to the southeast, and the Mediterranean Sea to the north and east. Tunisia's population was estimated to be just under 11.93 million in 2016. Tunisia's name is derived from its capital city, Tunis, which is located on its northeast coast.
 
