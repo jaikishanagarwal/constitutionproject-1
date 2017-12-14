@@ -9,6 +9,6 @@ menu : [
 {'name': 'About the Project', 'pagename': 'AboutTheProject'},
 {'name': 'Methodology', 'pagename': 'page3'},
 {'name': 'Impact and Support', 'pagename': 'ImpactsandSupport'},
-{'name': 'Case Study', 'pagename': 'page2'},
+{'name': 'Case Study - Tunisia', 'pagename': 'page2'},
 {'name': 'Resources', 'pagename': 'page4'},
 ]
