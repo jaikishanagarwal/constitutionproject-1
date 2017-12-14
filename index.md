@@ -1,9 +1,5 @@
 # Constitutions of the World  
 
-Objective of the study
-- The study was conducted to use online tools to analyse the constitutions of all 194 countries in thr world to ascertain whether there is a connection between the rights promised to every citizen of a country and the collective propserity of the country. 
-- An unintended objective derived from our primary analysis was comparing the Economist's Democracy Index and correlating the nature of a constitution with the score on the index. 
-
 ### What is a Constitution? 
 
 A constitution is a set of fundamental principles or established precedents according to which a state or other organization is governed. These rules together make up, i.e. constitute, what the entity is. When these principles are written down into a single document or set of legal documents, those documents may be said to embody a written constitution; if they are written down in a single comprehensive document, it is said to embody a codified constitution. Some constitutions (such as the constitution of the United Kingdom) are uncodified, but written in numerous fundamental Acts of a legislature, court cases or treaties.
