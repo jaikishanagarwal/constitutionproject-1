@@ -11,4 +11,4 @@ One of the key functions of a constitution must be to adapt to the needs of the 
 We’ve highlighted a few countries that are in desperate need of constitutional reform and believe they can benefit best by collaborating with us. These include Siera Leone, Spain (with regard to Catalonia), Yemen, Syria, India(Kashmir issue) etc.
 
 
-<iframe src="/constitutionproject-1/assets/images/IS.jpg" frameborder="0" width="1126" height="663" allowfullscreen></iframe>
+<iframe src="/constitutionproject-1/assets/images/IS.png" frameborder="0" width="1126" height="663" allowfullscreen></iframe>
