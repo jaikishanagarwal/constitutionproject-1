@@ -8,7 +8,7 @@ menu : [
 {'name': 'Acknowledgements', 'pagename': 'page1'},
 {'name': 'About the Project', 'pagename': 'AboutTheProject'},
 {'name': 'Methodology', 'pagename': 'page3'},
-{'name': 'Impact and Support of the project', 'pagename': 'ImpactsandSupport.md'},
+{'name': 'Impact and Support of the project', 'pagename': 'ImpactsandSupport'},
 {'name': 'Case Study', 'pagename': 'page2'},
 {'name': 'Resources', 'pagename': 'page4'},
 ]
