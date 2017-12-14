@@ -4,26 +4,15 @@ Objective of the study
 - The study was conducted to use online tools to analyse the constitutions of all 194 countries in thr world to ascertain whether there is a connection between the rights promised to every citizen of a country and the collective propserity of the country. 
 - An unintended objective derived from our primary analysis was comparing the Economist's Democracy Index and correlating the nature of a constitution with the score on the index. 
 
-## Multimedia Content:
+### What is a Constitution? 
 
+A constitution is a set of fundamental principles or established precedents according to which a state or other organization is governed. These rules together make up, i.e. constitute, what the entity is. When these principles are written down into a single document or set of legal documents, those documents may be said to embody a written constitution; if they are written down in a single comprehensive document, it is said to embody a codified constitution. Some constitutions (such as the constitution of the United Kingdom) are uncodified, but written in numerous fundamental Acts of a legislature, court cases or treaties.
 
 ###  videos
 
-Embedding Youtube content:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x8OOc0aMoBY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-### texts
 
-Adding a pdf:
+There has been significant discussion on whether there is a link between the rights a constitution grants to the citizens of a country and the level of prosperity that country acheives. There have been no any formal commissions or projects undertaken to ascertain the validity of this claim, therefore we decided to incorprate a host of digital tools to help us in understanding a basic correlation (if not causation) between the provisions of a country's constitution and its prosperity. 
 
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
-Highlight an excerpt as a block:
-```
-Le vent d'hiver souffle, et la nuit est sombre, 
-Des gémissements sortent des tilleuls ; 
-```
-create a citation withing the text:
-
-> Les squelettes blancs vont à travers l'ombre
 
