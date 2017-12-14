@@ -14,10 +14,10 @@ A constitution is a set of fundamental principles or established precedents acco
 
 There has been significant discussion on whether there is a link between the rights a constitution grants to the citizens of a country and the level of prosperity that country acheives. There have been no any formal commissions or projects undertaken to ascertain the validity of this claim, therefore we decided to incorprate a host of digital tools to help us in understanding a basic correlation (if not causation) between the provisions of a country's constitution and its prosperity. 
 
-<iframe src="/constitutionproject-1/assets/images/USCon.png" frameborder="0" width="1000" height="493" allowfullscreen></iframe>  
+<iframe src="/constitutionproject-1/assets/images/USCon.jpg" frameborder="0" width="900" height="600" allowfullscreen></iframe>  
 The United States Constitution, signed in 1776 
 
-<iframe src="/constitutionproject-1/assets/images/MagnaCarta.png" frameborder="0" width="1000" height="493" allowfullscreen></iframe>
+<iframe src="/constitutionproject-1/assets/images/MagnaCarta.jpg" frameborder="0" width="900" height="493" allowfullscreen></iframe>
 The Magna Carta, the oldest evidence of English Common Law and often cited as "the greatest constitutional document of all time" 
 
 
