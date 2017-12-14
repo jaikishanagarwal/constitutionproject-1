@@ -16,7 +16,7 @@ The constitutions have been analysed with reference to the following groupings/ 
 
 ### Authors 
 
-<iframe src="/constitutionproject-1/assets/images/authors.png" frameborder="0" width="100" height="493" allowfullscreen></iframe>
+<iframe src="/constitutionproject-1/assets/images/authors.png" frameborder="0" width="1000" height="493" allowfullscreen></iframe>
 
 Jaikishan Agarwal: 
 Jaikishan is a graduate student at the Paris School of International Affairs, pusruing a master's degree in International Security. 
