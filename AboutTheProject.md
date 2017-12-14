@@ -7,12 +7,13 @@ Using digital tools, The Constitutions Project aims to understand formal governm
 Started in 2017, by three students at Sciences Po, The Constitutions Project who  believed constitutions despite being considered “fundamental laws” and living documents, apart from periods when amendments are proposed, are not given much attention after their conception.  Being one of the first of it’s kind, they aimed to analyse constitutions and how instrumental they are in reflecting socio-political realities. 
 
 ### Scope of the study and limitations
-We recognise the distance  that exists between formal aspects of constitutions and real political culture (date of making, standard format, non-perfect rule of law) which may not always reflect realities. We acknowledge that there may be bias in the terms list adopted and designed by us which may hinge on the line of cherry picking . However, we’ve tried to minimise the scope of damage by cross consultations, use of external sources and grouping constitutions along different axes of analysis. Groupings:, 
-The constitutions have been analysed with reference to the following groupings/ categories: 
-	/-Income: World Bank data,
-        /-Human Development Index,
-        /-Regime liberalism : Economist’s democracy index,
-	/-Region values: World Value Survey/Ingelhart Welzel map.
+We recognise the distance  that exists between formal aspects of constitutions and real political culture (date of making, standard format, non-perfect rule of law) which may not always reflect realities. We acknowledge that there may be bias in the terms list adopted and designed by us which may hinge on the line of cherry picking . However, we’ve tried to minimise the scope of damage by cross consultations, use of external sources and grouping constitutions along different axes of analysis. 
+- Groupings: 
+-The constitutions have been analysed with reference to the following groupings/ categories: 
+-Income: World Bank data,
+-Human Development Index,
+-Regime liberalism : Economist’s democracy index,
+-Region values: World Value Survey/Ingelhart Welzel map.
 
 ### Authors 
 
