@@ -6,15 +6,13 @@ Human Development Index and Constitutions
   <iframe src="/constitutionproject-1/assets/images/HDI.jpg" frameborder="0" width="1155" height="500" allowfullscreen></iframe> 
   
   
-Methodology: 
+## Methodology: 
   After running a terms extraction and filtering words, a terms list was created to analyse the relationship between constitutions and HDI. The constitutions were divided into 4 subgroups based on their HDI rankings in order to assess the interplay of the terms within these 4 HDI categories and parsed. Network maps were created using ‘terms’ as the field and edges modified to include only  "short range" cooccurrences. 
-There maps can be found here. ====Xxxxxx post link of maps xxxxxx====
-
-�
-Contingency matrix:
-Is a matrix used to highlight (multivariate) frequency distribution of the variables in the dataset. This  matrix was created using HDI rankings on the y axis and terms found in constitutions in the x axis. A contingency matrix was created by listing the HDI ranks with their respective countries and a ‘terms list’ which consisted words like ‘power’, ‘development’ etc. 
+There maps can be found here. 
 
 
+### Contingency matrix:
+> Is a matrix used to highlight (multivariate) frequency distribution of the variables in the dataset. This  matrix was created using HDI rankings on the y axis and terms found in constitutions in the x axis. A contingency matrix was created by listing the HDI ranks with their respective countries and a ‘terms list’ which consisted words like ‘power’, ‘development’ etc. 
 
 The findings can be enthralling and some key results have been highlighted: 
 
