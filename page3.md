@@ -12,7 +12,7 @@ There maps can be found here.
 
 
 ### Contingency matrix:
-> Is a matrix used to highlight (multivariate) frequency distribution of the variables in the dataset. This  matrix was created using HDI rankings on the y axis and terms found in constitutions in the x axis. A contingency matrix was created by listing the HDI ranks with their respective countries and a ‘terms list’ which consisted words like ‘power’, ‘development’ etc. 
+> This a matrix used to highlight (multivariate) frequency distribution of the variables in the dataset. This  matrix was created using HDI rankings on the y axis and terms found in constitutions in the x axis. A contingency matrix was created by listing the HDI ranks with their respective countries and a ‘terms list’ which consisted words like ‘power’, ‘development’ etc. 
 
 The findings can be enthralling and some key results have been highlighted: 
 
