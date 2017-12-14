@@ -1,7 +1,5 @@
 # Constitutions of the World  
 
-# VERY EASY
-
 Objective of the study
 - The study was conducted to use online tools to analyse the constitutions of all 194 countries in thr world to ascertain whether there is a connection between the rights promised to every citizen of a country and the collective propserity of the country. 
 - An unintended objective derived from our primary analysis was comparing the Economist's Democracy Index and correlating the nature of a constitution with the score on the index. 
@@ -13,7 +11,7 @@ Objective of the study
 
 Embedding Youtube content:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZwNb11n9zk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/x8OOc0aMoBY" frameborder="0" allowfullscreen></iframe>
 
 ### texts
 
