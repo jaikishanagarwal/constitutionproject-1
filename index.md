@@ -17,7 +17,7 @@ There has been significant discussion on whether there is a link between the rig
 <iframe src="/constitutionproject-1/assets/images/USCon.jpg" frameborder="0" width="900" height="600" allowfullscreen></iframe>  
 The United States Constitution, signed in 1776 
 
-<iframe src="/constitutionproject-1/assets/images/MagnaCarta.jpg" frameborder="0" width="900" height="493" allowfullscreen></iframe>
+<iframe src="/constitutionproject-1/assets/images/M.jpg" frameborder="0" width="960" height="640" allowfullscreen></iframe>
 The Magna Carta, the oldest evidence of English Common Law and often cited as "the greatest constitutional document of all time" 
 
 
