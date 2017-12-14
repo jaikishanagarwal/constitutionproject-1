@@ -10,10 +10,10 @@ Started in 2017, by three students at Sciences Po, The Constitutions Project who
 We recognise the distance  that exists between formal aspects of constitutions and real political culture (date of making, standard format, non-perfect rule of law) which may not always reflect realities. We acknowledge that there may be bias in the terms list adopted and designed by us which may hinge on the line of cherry picking . However, we’ve tried to minimise the scope of damage by cross consultations, use of external sources and grouping constitutions along different axes of analysis. 
 - Groupings: 
 -The constitutions have been analysed with reference to the following groupings/ categories: 
--Income: World Bank data,
--Human Development Index,
--Regime liberalism : Economist’s democracy index,
--Region values: World Value Survey/Ingelhart Welzel map.
+>-Income: World Bank data,
+>-Human Development Index,
+>-Regime liberalism : Economist’s democracy index,
+>-Region values: World Value Survey/Ingelhart Welzel map.
 
 ### Authors 
 
