@@ -3,8 +3,8 @@ theme: jekyll-theme-midnight
 title: The Constitutions Project
 description: Comparing and Contrasting the Constitutions of the World
 
-menu : [
-{'name': 'Home', 'pagename': 'index'},
+menu : 
+[{'name': 'Home', 'pagename': 'index'},
 {'name': 'Acknowledgements', 'pagename': 'page1'}
 {'name': 'About the Project', 'pagename': 'AboutTheProject'},
 {'name': 'Methodology', 'pagename': 'page3'},
