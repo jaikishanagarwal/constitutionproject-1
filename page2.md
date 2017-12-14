@@ -1,96 +1,31 @@
-# Graphs
+# Case Study - Tunisia 
  
  We would like to start with the case study of Tunisia, which is a focal point of our project. 
- This is the map of a "Flawed" Democracy, as per widely accepted definitions and our analysis. The map was generated on CorText and consists of four key clusters: 
+ 
+ <iframe src="/constitutionproject-1/assets/images/Tunisia.png" frameborder="0" width="600" height="400" allowfullscreen></iframe> <iframe src="/constitutionproject-1/assets/images/CoAT.svg" frameborder="0" width="400" height="300" allowfullscreen></iframe>
+ 
+Tunisia (English: /tuˈniʒə/; Arabic: تونس‎; French: Tunisie), officially the Republic of Tunisia (Arabic: الجمهورية التونسية‎ About this sound al-Jumhūrīya at-Tūnisīya) is a country in North Africa, covering 165,000 square kilometres (64,000 square miles). Its northernmost point, Cape Angela, is the northernmost point on the African continent. It is bordered by Algeria to the west and southwest, Libya to the southeast, and the Mediterranean Sea to the north and east. Tunisia's population was estimated to be just under 11.93 million in 2016. Tunisia's name is derived from its capital city, Tunis, which is located on its northeast coast.
+
+Tunisia is a unitary semi-presidential representative democratic republic. It is considered to be the only full democracy in the Arab World. It has a high human development index.[13] It has an association agreement with the European Union; is a member of La Francophonie, the Union for the Mediterranean, the Arab Maghreb Union, the Arab League, the OIC, the Greater Arab Free Trade Area, the Community of Sahel-Saharan States, the African Union, the Non-Aligned Movement, the Group of 77; and has obtained the status of major non-NATO ally of the United States. In addition, Tunisia is also a member state of the United Nations and a state party to the Rome Statute of the International Criminal Court. Close relations with Europe – in particular with France[18] and with Italy – have been forged through economic cooperation, privatisation and industrial modernization. 
+
+ 
+ 
+## Analysis 
+
+In 2011, the Tunisian Revolution resulted in the overthrow of President Zine El Abidine Ben Ali, followed by parliamentary elections. The country voted for parliament again on 26 October 2014, and for President on 23 November 2014. The protests inspired similar actions throughout the Arab world, known as the Arab Spring. The Tunisian National Dialogue Quartet was awarded the 2015 Nobel Peace Prize for "its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Tunisian Revolution of 2011". The Tunisian National Dialogue Qaurter was responsible for framing Tunisia's New constitution which came into effect in 2014. 
+ 
+ Below is the progression of Tunisia from an "<b>Authoritairan regime</b>" in 2010 to a "<b>Hybrid Regime</b>" in 2011-2013 and finally to a "<b>Flawed Democracy</b>" in 2014 after the introduction of the New Constitution. 
+ 
+![network map]({{ site.url }}/constitutionproject-1/assets/images/TunisiaDI.png) 
+
+ ![network map]({{ site.url }}/constitutionproject-1/assets/images/Graph1Flawed.png)  
+ 
+The map above shows us the core components of a "Flawed Democracy" state. The map was generated on CorText and consists of four key clusters: 
  
 > Green: president and interference/
 > Orange: ideology and trade/
 > Blue: individual and free/
 > Teal: religion and parliament/
  
+Each cluster represents the importance of each term(s) it is associated with, as our parameteres during lexical extraction focused on the occurence of key terms in our list and their closely occuring synonyms. 
 
- ![network map]({{ site.url }}/constitutionproject-1/assets/images/Graph1Flawed.png)  
- 
- 
- 
-![network map]({{ site.url }}/constitutionproject-1/assets/images/TunisiaDI.png) 
-
-About Tunisia: 
-
-Republic of Tunisia
-الجمهورية التونسية (Arabic)
-al-Jumhūrīyah at-Tūnisīyah
-Flag of Tunisia
-Flag
-Coat of arms of Tunisia
-Coat of arms
-Motto: حرية، ، عدالة، نظام
-"Ḥurrīyah, 'Adālah, Niẓām"
-"Liberty, Justice, Order"[1]
-Anthem: حماة الحمى
-Humat al-Hima
-Defenders of the Homeland
-MENU0:00
-Location of  Tunisia  (dark blue)– in Africa  (light blue & dark grey)– in the African Union  (light blue)
-Location of  Tunisia  (dark blue)
-– in Africa  (light blue & dark grey)
-– in the African Union  (light blue)
-Location of Tunisia
-Capital
-and largest city	Tunis
-36°50′N 10°9′E
-Official languages	Arabic[2]
-Spoken languages	
-Tunisian Arabic[3]
-Tamazight (Berber)[4][5][6][7]
-French (commercial and educational)
-Ethnic groups	Maghrebis
-Religion	Islam
-Demonym	Tunisian
-Government	Unitary semi-presidential republic[8][9]
-• President
-Beji Caid Essebsi
-• Head of Government
-Youssef Chahed
-Legislature	Assembly of the Representatives of the People
-Formation
-• Husainid Dynasty inaugurated
-15 July 1705
-• Independence from France
-20 March 1956
-• Republic declared
-25 July 1957
-• Revolution Day
-14 January 2011
-Area
-• Total
-163,610 km2 (63,170 sq mi) (91st)
-• Water (%)
-5.0
-Population
-• 2014 estimate
-10,982,754[10] (79th)
-• Density
-63/km2 (163.2/sq mi) (133rd)
-GDP (PPP)	2017 estimate
-• Total
-$136.797 billion[11]
-• Per capita
-$12,065[11]
-GDP (nominal)	2017 estimate
-• Total
-$40.289 billion[11]
-• Per capita
-$3,553[11]
-Gini (2010)	36.1[12]
-medium
-HDI (2016)	Increase 0.725[13]
-high · 97th
-Currency	Tunisian dinar (TND)
-Time zone	CET (UTC+1)
-Drives on the	right
-Calling code	+216
-ISO 3166 code	TN
-Internet TLD	
-.tn
-.تونس‎[14]
