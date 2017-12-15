@@ -9,6 +9,7 @@ menu : [
 {'name': 'About the Project', 'pagename': 'AboutTheProject'},
 {'name': 'Research', 'pagename': 'page3'},
 {'name': 'Impact and Support', 'pagename': 'ImpactsandSupport'},
+{'name': 'Regrouping Experiment', 'pagename': 'Regrouping'},
 {'name': 'Case Study - Tunisia', 'pagename': 'page2'},
 {'name': 'Resources', 'pagename': 'page4'},
 ]
