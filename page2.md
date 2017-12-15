@@ -27,5 +27,5 @@ The map above shows us the core components of a "Flawed Democracy" state. The ma
 > Blue: individual and free/
 > Teal: religion and parliament/
  
-Each cluster represents the importance of each term(s) it is associated with, as our parameteres during lexical extraction focused on the occurence of key terms in our list and their closely occuring synonyms. 
+Each cluster represents the importance of each term(s) it is associated with, as our parameteres during lexical extraction focused on the occurence of key terms in our list and their closely occuring synonyms. Our project was geared towards uncovering a link between the number of democratic principles enshrined in a constitution and the overall prosperity of a country and Tunisia's case is proving our original hypothesis of a correlation between the two. 
 
