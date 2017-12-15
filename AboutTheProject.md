@@ -28,7 +28,7 @@ Jaikishan Agarwal:
 Jaikishan is a graduate student at the Paris School of International Affairs, pusruing a master's degree in International Security. 
 
 Salma Labyad: 
-???
+Salma is an international relations student with a focus on global policy making. My masters concentration are global risks analysis and the MENA region.
 
 Shreyya Rajagopal: 
 A student of Political Science and International Development, her interests lie primarily in Political Sociology, Digital Culture, Data Science and their interplay. She is currently pursuing a Master’s in International Development at The Paris School of International Affairs, Sciences Po. 
