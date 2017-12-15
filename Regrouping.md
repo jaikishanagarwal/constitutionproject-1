@@ -11,3 +11,7 @@ This regrouping has some obvious but also some interesting insights. As it is ve
 
 
 <iframe src="/constitutionproject-1/assets/images/easygraph.png" frameborder="0" width="900" height="600" allowfullscreen></iframe>
+
+>The grouping of the Constitutions can be traced in the map above. The graph below gives us a more detailed view of the interconnections between different countries and their respective constitutions. 
+
+<iframe src="/constitutionproject-1/assets/images/completegraph.png" frameborder="0" width="1088" height="724" allowfullscreen></iframe>
