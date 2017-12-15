@@ -1,4 +1,4 @@
-# Methodology
+# Research
 
 Human Development Index and Constitutions 
 	The United Nations Development Program (http://hdr.undp.org/en/composite/HDI) keeps track of the human development index. HDI is used to ascertain the quality of life in a country Although not perfect, it is a scientific and reasonably accurate measure of the quality of life.  In an attempt to review the relationship between HDI and constitutions, we analysed the text and study the findings. 
